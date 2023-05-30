@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import css from "styled-jsx/css";
 
 export default function BoxWithStyledComponents({ variant }) {
   return <StyledDiv variant={variant}></StyledDiv>;

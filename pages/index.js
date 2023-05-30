@@ -2,6 +2,7 @@ import BoxWithStyledComponents from "../components/BoxWithStyledComponents/BoxWi
 import BoxWithClassName from "../components/BoxWithClassName/BoxWithClassName.js";
 import styled from "styled-components";
 
+
 export default function HomePage() {
   return (
     <FlexRowStyledDiv>
